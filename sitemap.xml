@@ -1,12 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://danielrob.github.io/blog/2014/04/12/init/</loc>
+        <lastmod>2014-04-12T16:22:19+12:00</lastmod>
+    </url>
+    <url>
         <loc>http://danielrob.github.io/blog/archives/</loc>
-        <lastmod>2014-04-12T15:53:59+12:00</lastmod>
+        <lastmod>2014-04-12T16:22:19+12:00</lastmod>
     </url>
     <url>
         <loc>http://danielrob.github.io/</loc>
-        <lastmod>2014-04-12T15:53:59+12:00</lastmod>
+        <lastmod>2014-04-12T16:22:19+12:00</lastmod>
     </url>
     <url>
         <loc>http://danielrob.github.io/robots.txt</loc>
