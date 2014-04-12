@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Links to cheatsheets"
+date: 2014-04-12 16:19:30 +1200
+comments: false
+categories: 
+---
+[Octopress Cheatsheet](http://blog.revolunet.com/blog/2013/04/15/octopress-cheatsheet/)
+
+[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
