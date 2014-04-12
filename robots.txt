@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://danielrob.github.io/sitemap.xml 
