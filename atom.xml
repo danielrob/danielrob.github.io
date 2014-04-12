@@ -4,7 +4,7 @@
   <title><![CDATA[Notes on Stuff]]></title>
   <link href="http://danielrob.github.io/atom.xml" rel="self"/>
   <link href="http://danielrob.github.io/"/>
-  <updated>2014-04-12T17:13:54+12:00</updated>
+  <updated>2014-04-12T17:15:54+12:00</updated>
   <id>http://danielrob.github.io/</id>
   <author>
     <name><![CDATA[Daniel Robinson]]></name>
@@ -18,8 +18,9 @@
     <link href="http://danielrob.github.io/blog/2014/04/12/init/"/>
     <updated>2014-04-12T16:19:30+12:00</updated>
     <id>http://danielrob.github.io/blog/2014/04/12/init</id>
-    <content type="html"><![CDATA[<p><a href="http://blog.revolunet.com/blog/2013/04/15/octopress-cheatsheet/">Octopress Cheatsheet</a>
-<a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet">Markdown Cheatsheet</a></p>
+    <content type="html"><![CDATA[<p><a href="http://blog.revolunet.com/blog/2013/04/15/octopress-cheatsheet/">Octopress Cheatsheet</a></p>
+
+<p><a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet">Markdown Cheatsheet</a></p>
 ]]></content>
   </entry>
   
