@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Notes on Stuff]]></title>
+  <title><![CDATA[Notes on Software Development and its process]]></title>
   <link href="http://danielrob.github.io/atom.xml" rel="self"/>
   <link href="http://danielrob.github.io/"/>
-  <updated>2014-04-12T17:15:54+12:00</updated>
+  <updated>2014-04-19T15:12:02+12:00</updated>
   <id>http://danielrob.github.io/</id>
   <author>
     <name><![CDATA[Daniel Robinson]]></name>
@@ -12,6 +12,44 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Testing Wisdoms]]></title>
+    <link href="http://danielrob.github.io/blog/2014/04/19/imparted-testing-wisdom/"/>
+    <updated>2014-04-19T14:42:34+12:00</updated>
+    <id>http://danielrob.github.io/blog/2014/04/19/imparted-testing-wisdom</id>
+    <content type="html"><![CDATA[<p>Three months into being a test engineer I was placed with a senior test engineer with more years experience than my age. In navigating the complexity of the software world (which I did not have a background in) and testing itself, he provided me with many basic gems which generally helped me to take a less flustered approach, and &ldquo;Keep it simple stupid&rdquo;.</p>
+
+<blockquote><p>&ldquo;What is this?&rdquo;
+&ldquo;How does it work?&rdquo;
+&ldquo;Why are we doing it?&rdquo;,
+And only then: &ldquo;Ok! Let&rsquo;s test it!&rdquo;</p>
+
+<p>&ldquo;Complexity is a sign that something is not yet well understood.&rdquo;</p>
+
+<p>&ldquo;Testers go where developers fear to tread&rdquo;</p>
+
+<p>&ldquo;QA &ndash; Products, QMS &ndash; Processes&rdquo;</p>
+
+<p>&ldquo;People, Process, Tools.&rdquo;</p>
+
+<p>&ldquo;You can&rsquo;t test quality into your product&rdquo;</p></blockquote>
+
+<p>And just an ism of his:</p>
+
+<blockquote><p>Now we&rsquo;re getting into the realm of speculation&hellip;</p></blockquote>
+
+<h2>My personal summary:</h2>
+
+<ul>
+<li>Don&rsquo;t just dive into testing something, take time to understand its context, (you may find issues before you even start to test it)</li>
+<li>If you want quality, you need a quality process. Watch where you spend your time &ndash; it may be better to improve a process than heavily test its result.</li>
+<li>Don&rsquo;t be afraid of complexity, but probably don&rsquo;t accept it either.</li>
+<li>Spend your time focusing on actualities, spike possibilities, and if you are speculating you&rsquo;re probably wasting your time in a meeting.</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Links to Cheatsheets]]></title>
